@@ -23,7 +23,7 @@
           "hero_layout": "full_width",
           "hero_size": "large",
           "text_size": "large",
-          "title": "Image with text overlay",
+          "title": "MGT Automotive",
           "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
           "button_label": "",
           "button_link": ""
@@ -205,6 +205,13 @@
           "color_footer_text": "#333232",
           "show_locale_selector": true,
           "show_currency_selector": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_ajax_enable": true,
+          "cart_notes_enable": false
         }
       }
     },
