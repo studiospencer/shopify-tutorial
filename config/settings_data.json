@@ -7,11 +7,11 @@
           "align_logo": "left",
           "logo_max_width": 100,
           "main_linklist": "main-menu",
-          "message": false,
+          "message": true,
           "home_page_only": true,
-          "message_text": "Announce something here",
+          "message_text": "Free UK Delivery",
           "message_link": "",
-          "color_bg": "#3a3a3a",
+          "color_bg": "#000000",
           "color_text": "#ffffff"
         }
       },
