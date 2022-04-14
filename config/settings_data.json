@@ -8,7 +8,8 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": 100,
+          "logo": "shopify:\/\/shop_images\/Asset_2.png",
+          "logo_max_width": 185,
           "main_linklist": "main-menu",
           "message": true,
           "home_page_only": true,
@@ -235,6 +236,18 @@
           "show_product_recommendations": true,
           "heading": "You may also like",
           "show_vendor": false
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 4,
+          "rows": 2,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
         }
       }
     },
