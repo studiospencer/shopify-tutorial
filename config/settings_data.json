@@ -101,11 +101,12 @@
       "hero-2": {
         "type": "hero",
         "settings": {
+          "image": "shopify:\/\/shop_images\/josh-berquist-IpF0pLkHX3Q-unsplash-min.jpg",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "medium",
-          "text_size": "large",
-          "title": "Image with text overlay",
+          "text_size": "medium",
+          "title": "Car accessories",
           "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
           "button_label": "",
           "button_link": ""
@@ -254,9 +255,9 @@
     "content_for_index": [
       "hero-1",
       "collection",
+      "hero-2",
       "feature-row",
       "feature-columns",
-      "hero-2",
       "quotes",
       "image-bar"
     ]
