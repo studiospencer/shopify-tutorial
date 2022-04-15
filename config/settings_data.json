@@ -90,9 +90,9 @@
       "collection": {
         "type": "collection",
         "settings": {
-          "title": "Featured collection",
-          "collection": "",
-          "grid": 4,
+          "title": "Premium car accessories",
+          "collection": "frontpage",
+          "grid": 3,
           "rows": 2,
           "show_vendor": false,
           "show_view_all": false
@@ -253,9 +253,9 @@
     },
     "content_for_index": [
       "hero-1",
+      "collection",
       "feature-row",
       "feature-columns",
-      "collection",
       "hero-2",
       "quotes",
       "image-bar"
