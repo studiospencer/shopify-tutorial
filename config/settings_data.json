@@ -3,6 +3,8 @@
     "color_text": "#d7d7d7",
     "color_body_text": "#e6e6e6",
     "color_body_bg": "#1d1d1d",
+    "social_facebook_link": "https:\/\/facebook.com\/mgtautomotive",
+    "social_instagram_link": "http:\/\/instagram.com\/mgtautomotive",
     "sections": {
       "header": {
         "type": "header",
