@@ -191,6 +191,20 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "96a5ccbf-2ffa-425d-a535-bcf6c93d41aa": {
+            "type": "text",
+            "settings": {
+              "title": "MGT Automotive",
+              "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+            }
+          },
+          "a4c46b5d-8e6e-4446-bf8d-d55a99a860db": {
+            "type": "link_list",
+            "settings": {
+              "title": "Quick links",
+              "menu": "footer"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -206,6 +220,8 @@
           }
         },
         "block_order": [
+          "96a5ccbf-2ffa-425d-a535-bcf6c93d41aa",
+          "a4c46b5d-8e6e-4446-bf8d-d55a99a860db",
           "footer-0",
           "footer-1"
         ],
